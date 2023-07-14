@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - prints all possible combinations of two two-digit numbers
+ * main - prints all possible combinations of two two-digits numbers
  * Return: Always 0 (Success)
  */
 int main(void)
@@ -27,6 +27,6 @@ putchar(' ');
 }
 }
 }
-Putchar('\n');
+putchar('\n');
 return (0);
 }
