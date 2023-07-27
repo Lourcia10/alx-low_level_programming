@@ -10,7 +10,7 @@ int *p;
 a[2] = 1024;
 p = &n;
 /*
-* Print the desired output cout << "a[2] = << a[2] end;
+* write your line of code here...
 * Remember:
 * - you are not allowed to use a
 * - you are not allowed to modify p
